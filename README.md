@@ -1,9 +1,9 @@
 # awesome-cyber-skills
-**A curated list of hacking environments where you can train your cyber skills legally and safely**
+**A curated list of hacking environments where you can train your cyber skills free, legally and safely**
 
 ![](https://i.imgur.com/GwhKPt6.jpg)
 
-Also visit my Cyber Security News Room, a free news site that updates itself every 5 minutes with the latest cyber news.
+Also visit my Cyber Security News Room, a free news site that updates itself every 5 minutes with the latest cyber news and has been running since 2018: 
 [Cyber Security News Room](https://www.cyber-consult.org)
 
 
@@ -15,7 +15,7 @@ For everyone in the Information Security business, it's important to understand 
 
 In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
 
-Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, legally and safely.
+Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, free, legally and safely.
 
 For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words its specifics.
 
@@ -33,7 +33,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ## About the author
 ----------------
-![](https://i.imgur.com/DKUWpJu.jpg)
+![](https://i.imgur.com/e8Y03gG.jpg)
 
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
 
@@ -41,51 +41,46 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ♦️ About Me ♦️
 
-International hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity
+Joe Shenouda is an Associate Director for Accenture Security, based in Amsterdam. He joined Accenture in May 2019. Joe is a well-known international hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity.
 
-♦️ My past achievements ♦️
+Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands ( MT50 Next Generation Leadership ).
 
-Developing & leading technical corporate Cybersecurity programs for military & global organizations
-Well known in The Netherlands as "The Netdetective" ( I co-presented a MTV show on hacking for young adults)
-Numerous Information Assurance projects
+With his many years of experience in operational cybersecurity operations, he is currently the to go-to SME within Accenture for all IT/OT security related matters for his technical expertise.
 
-♦️ My research work ♦️
+Functional expertise:
+Cyber & Information Security
+Network Hacking techniques
+ICS Industrial Cyber Security
+Concept & Cybersecurity architecture
+Threat & Cyber Intelligence
 
-Cybersecurity, Cyber Crime, Cyber Forensics, Privacy & Data protection / latest hacking techniques / OSINT / Darknet intel 
+Industry expertise:
+Policing
+National Security & Cyber Defense/Offensive
+Industrial Control Systems and Manufacturing
+Managed Security Services
 
-♦️ When my professional career started in Cyber Security ♦️
+WORK EXPERIENCE
+Verizon – Managed Services – Principal Cyber Analyst – Advanced Security Operations Center
+* Lead a team of Senior Cyber Analysts on client site for client engagement, stakeholder management and security incident coordination
+* Integrated off site security analysts into client security operations, from remote working locations and backgrounds
+* Delivered transformation and security operations process optimization for managed services clients.
 
-April 1999 at Tilburg University
+NATO – Cybersecurity Expert
+* Designed and advised security architecture and roadmap development for NATO forces
 
-♦️ What I do ♦️
+International Society for Automation – Industrial Cybersecurity trainer
+* Created, delivered and maintained training courses for industrial security experts
+* Contributed to the Industrial Cybersecurity Standards as part of the International Society for Automation
+* Mentored and advised Industrial cyber security experts on new and innovative approaches to securing operational technology (OT) and industrial control systems (ICS)
 
-Implementing the correct defense measures at the right place
-Leading teams in security projects
-Risk management in the planning phase
-Vulnerability assessments
-Security assessments & audits
-Analyze new malware & explain it
-Live hack demos
-Educate the audience & Train Students
-Publish articles & blogs on cybersecurity ** https://www.cyber-consult.org
-Interviews to the media on issues relating to cybersecurity
+CISCO – Email Security & Web Security trainer
+* Created, delivered and maintained training for email and web vulnerabilities for Cisco technical engineering staff
+* Training cybersecurity specialists how to deploy email and web security appliances
 
-♦️ Memberships ♦️
-
-Advisory Board Member for EC-Council
-Voting Member for ISA ( industrial security )
-International intelligence
-Malware analysis community
-
-Specialities: Cyber & Information Security / ICS Industrial Cyber Security / Man-in-the-Middle attacks / ARP Poisoning / Sniffing / Script injections / DNS spoofing & Session Hijacking / Setting up enormous DDOS simulations / Concept & Cybersecurity architecture development of approaches & systems for detection, prevention, and mitigation of malicious activity.
-
-♦️ Other skills ♦️ 
-
-Setting up live streams for events on Youtube Live (using my own programmed software)
-
-Security Cleared for several projects.
-🌿 Seguridad de red 网络安全 أمن الشبكة
-🌿 Visit me on [LinkedIn](https://nl.linkedin.com/in/josephshenouda) or [Twitter](https://twitter.com/JoeyShenouda)
+EC-COUNCIL – Advisory Board Member
+* Contributed to the creation of forensic incident response and analysis standards for policing and defence forces globally
+* Consulted about appropriate incident response and forensic analysis techniques
 
 Please share this list if you find it useful. Let me know if you like it
 
@@ -117,7 +112,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)|Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real-world web service vulnerabilities.|
 |[Damn Vulnerable Web Sockets](https://github.com/interference-security/DVWS)|Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.|
 |[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern-day app with lots of DOM-related bugs.|
-|[Dareyourmind](http://www.dareyourmind.net/)|Online game, hacker challenge.|
+|[Dareyourmind](https://web.archive.org/web/20170618221231/http://www.dareyourmind.net/)|Online game, hacker challenge (mirror archive).|
 |[DIVA Android](https://github.com/payatu/diva-android)|Damn Insecure and vulnerable App for Android.|
 |[EnigmaGroup](https://www.enigmagroup.org/)|Safe security resource, trains in exploits listed in the OWASP Top 10 Project and teach members the many other types of exploits that are found in today's applications.|
 |[ENISA Training Material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)|The European Union Agency for Network and Information Security (ENISA) Cyber Security Training. You will find training materials, handbooks for teachers, toolsets for students and Virtual Images to support hands-on training sessions.|
