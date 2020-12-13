@@ -41,46 +41,28 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ♦️ About Me ♦️
 
-Joe Shenouda is an Associate Director for Accenture Security, based in Amsterdam. He joined Accenture in May 2019. Joe is a well-known international hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity.
+Joe is a well-known international hands-on technical leader with a military background in Cybersecurity.
+For his role as a technical leader, Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands (MT50 Next Generation Leadership 2019-2020).
 
-Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands ( MT50 Next Generation Leadership ).
+Also, in the 90-ies he was one of the first Amsterdam subscribers to cable internet and was able, using “toolz”, to make his first steps into offensive and defensive cyber activities as a teenager.
 
-With his many years of experience in operational cybersecurity operations, he is currently the to go-to SME within Accenture for all IT/OT security related matters for his technical expertise.
+With his many years of experience in operational cybersecurity operations, he is currently the to-go-to SME for clients for all IT/OT ICS security-related matters for his technical expertise.
 
 Functional expertise:
-Cyber & Information Security
-Network Hacking techniques
-ICS Industrial Cyber Security
-Concept & Cybersecurity architecture
-Threat & Cyber Intelligence
+- Cyber Security Architecture
+- Network Hacking techniques
+- ICS Industrial Cyber Security (OT)
+- Managed Security Services and SOC
+- Threat & Cyber Intelligence
 
 Industry expertise:
-Policing
-National Security & Cyber Defense/Offensive
-Industrial Control Systems and Manufacturing
-Managed Security Services
+- Policing, National Security and Cyber Defense & Offense
+- Industrial Control Systems and Manufacturing
+- Managed Security Services MSS
+- Managed Detection & Response MDR
+- SOC building and leadership/management / SIEM
 
-WORK EXPERIENCE
-Verizon – Managed Services – Principal Cyber Analyst – Advanced Security Operations Center
-* Lead a team of Senior Cyber Analysts on client site for client engagement, stakeholder management and security incident coordination
-* Integrated off site security analysts into client security operations, from remote working locations and backgrounds
-* Delivered transformation and security operations process optimization for managed services clients.
-
-NATO – Cybersecurity Expert
-* Designed and advised security architecture and roadmap development for NATO forces
-
-International Society for Automation – Industrial Cybersecurity trainer
-* Created, delivered and maintained training courses for industrial security experts
-* Contributed to the Industrial Cybersecurity Standards as part of the International Society for Automation
-* Mentored and advised Industrial cyber security experts on new and innovative approaches to securing operational technology (OT) and industrial control systems (ICS)
-
-CISCO – Email Security & Web Security trainer
-* Created, delivered and maintained training for email and web vulnerabilities for Cisco technical engineering staff
-* Training cybersecurity specialists how to deploy email and web security appliances
-
-EC-COUNCIL – Advisory Board Member
-* Contributed to the creation of forensic incident response and analysis standards for policing and defence forces globally
-* Consulted about appropriate incident response and forensic analysis techniques
+Ж Active security clearance Ж 
 
 Please share this list if you find it useful. Let me know if you like it
 
@@ -92,7 +74,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
 |[Avatao](https://www.avatao.com/)|More than 350 hands-on challenges (free and paid) to master IT security and it's growing day by day.|
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
-|[bWAPP](http://www.itsecgames.com/)|bWAPP, or a buggy web application, is a free and open source deliberately insecure web application.|
+|[bWAPP](http://www.itsecgames.com/)|buggy web application, is a free and open source deliberately insecure web application. It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities. bWAPP prepares one to conduct successful penetration testing and ethical hacking projects.|
 |[Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)|Free online cyber security Massive Open Online Courses (MOOCS).|
 |[Commix testbed](https://github.com/commixproject/commix-testbed)|A collection of web pages, vulnerable to command injection flaws.|
 |[CryptOMG](https://github.com/SpiderLabs/CryptOMG)|CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.|
@@ -133,6 +115,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Hackazon](https://github.com/rapid7/hackazon)|A modern vulnerable web app.|
 |[Hackertest.net](http://www.hackertest.net/)|HackerTest.net is your own online hacker simulation with 20 levels.|
 |[Hacking-Lab](https://www.hacking-lab.com/Remote_Sec_Lab/)|Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. Furthermore, Hacking-Lab is providing the CTF and mission style challenges for the European Cyber Security Challenge with Austria, Germany, Switzerland, UK, Spain, Romania and provides free OWASP TOP 10 online security labs.|
+|[Hacksplaining](https://www.hacksplaining.com/)|This is a place to learn basics of system, network and web-app/website hacking. These are easy to deal and are both theoretical and practical labs activities, for beginners and intermediate users.|
 |[HackSys Extreme Vulnerable Driver](http://payatu.com/hacksys-extreme-vulnerable-driver/)|HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.|
 |[HackThis!!](https://www.hackthis.co.uk/)|Test your skills with 50+ hacking levels, covering all aspects of security.|
 |[Hackxor](http://hackxor.sourceforge.net/cgi-bin/index.pl)|Hackxor is a web app hacking game where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etc.|
@@ -195,6 +178,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[The ButterFly - Security Project](https://sourceforge.net/projects/thebutterflytmp/?source=navbar)|The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.|
 |[ThisIsLegal](http://www.thisislegal.com/)|A hacker wargames site but also with much more.|
 |[Try2Hack](http://www.try2hack.nl/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
+|[TryHackMe](https://tryhackme.com)|TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.|
 |[UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html)|UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products.|
 |[Vicnum](http://vicnum.ciphertechs.com/)|Vicnum is an OWASP project consisting of vulnerable web applications based on games commonly used to kill time. These applications demonstrate common web security problems such as cross-site scripting, SQL injections, and session management issues.|
 |[Vulnhub](https://www.vulnhub.com/)|An extensive  collection of vulnerable VMs with user-created solutions.|
