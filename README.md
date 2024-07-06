@@ -1,85 +1,84 @@
 # awesome-cyber-skills
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers)
+[![Forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg)](https://github.com/joe-shenouda/awesome-cyber-skills/network/members)
+
 **A curated list of hacking environments where you can train your cyber skills free, legally and safely**
 
-![](https://i.imgur.com/GwhKPt6.jpg)
+![](https://user-images.githubusercontent.com/24913656/230711515-f0848676-f967-4690-9914-40646ec40c4a.png)
 
-Also visit my Cyber Security News Room, a free news site that updates itself every 5 minutes with the latest cyber news and has been running since 2018: 
-[Cyber Security News Room](https://www.cyber-consult.org)
+## About the List
 
+In the field of Information Security, understanding the enemy, the hacker, is crucial. By knowing your enemy, you can effectively defend and secure the digital world.
 
-About the list:
----------------
-For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
+> "Know the enemy, and you can defeat the enemy."
 
-> By knowing your enemy, you can defeat your enemy. 
+In the USA, even high-ranking retired police officers continue to advise residents on how to better secure their homes. They visit houses and identify weak points, sharing their knowledge of the criminals' techniques to help prevent break-ins.
 
-In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
+To hone your cybersecurity skills, you need to keep your hacking skills up-to-date. To achieve this, a safe, legal, and free environment is necessary for practice.
 
-Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, free, legally and safely.
+This list compiles websites that offer various opportunities to practice your cyber skills. Each site has a unique approach, and a brief description is provided to highlight its focus.
 
-For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words its specifics.
+Some sites offer tutorials to guide you, while others encourage self-directed exploration.
 
-Some sites will offer you tutorials to help you, others will require you to find things on your own.
+This post will be regularly updated with new sites, so bookmark it or follow me to stay informed with the latest overview.
 
-I will update this post below regularly and add sites to this post so bookmark it and/or follow me to see the latest overview. 
 
 If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
 
 ## CONTRIBUTORS
-- [foleranser](https://github.com/foleranser)
-- [filinpavel](https://github.com/filinpavel)
-- [BenDrysdale](https://github.com/BenDrysdale)
-- [HrushikeshK](https://github.com/HrushikeshK)
 
-## About the author
-----------------
-![](https://i.imgur.com/e8Y03gG.jpg)
+[foleranser](https://github.com/foleranser) • [filinpavel](https://github.com/filinpavel) • [BenDrysdale](https://github.com/BenDrysdale) • [HrushikeshK](https://github.com/HrushikeshK) • [deveyNull](https://github.com/deveyNull) • [nirmalunagar](https://github.com/nirmalunagar) • [roya0045](https://github.com/roya0045) • [photoelf](https://github.com/photoelf) • [AverageS](https://github.com/AverageS) • [pentesttools-com](https://github.com/pentesttools-com) • [Warxim](https://github.com/Warxim)
 
-[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
 
-"Our work is no longer to secure computers alone, it's now about securing society."
 
-♦️ About Me ♦️
 
-Joe is a well-known international hands-on technical leader with a military background in Cybersecurity.
-For his role as a technical leader, Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands (MT50 Next Generation Leadership 2019-2020).
 
-Also, in the 90-ies he was one of the first Amsterdam subscribers to cable internet and was able, using “toolz”, to make his first steps into offensive and defensive cyber activities as a teenager.
 
-With his many years of experience in operational cybersecurity operations, he is currently the to-go-to SME for clients for all IT/OT ICS security-related matters for his technical expertise.
+## About the Author
+[LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda) 🌍 [Cybersecurity News](https://www.cyber-consult.org)
 
-Functional expertise:
-- Cyber Security Architecture
-- Network Hacking techniques
-- ICS Industrial Cyber Security (OT)
-- Managed Security Services and SOC
-- Threat & Cyber Intelligence
+**[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)** - _"Our work is no longer to secure computers alone, it's now about securing society."_
 
-Industry expertise:
-- Policing, National Security and Cyber Defense & Offense
-- Industrial Control Systems and Manufacturing
-- Managed Security Services MSS
-- Managed Detection & Response MDR
-- SOC building and leadership/management / SIEM
+Joe Shenouda is a seasoned cybersecurity expert with experience in engineering, consulting, and research. He has worked with leading companies like Verizon and Accenture, specializing in operational cybersecurity. Joe is passionate about mentoring and training the next generation of cybersecurity specialists, using industry standards like ISO, NIST, and CIS Controls to guide organizations in adopting best practices.
 
-Ж Active security clearance Ж 
+**Accolades:**
+- Named one of the 50 most talented young leaders in the Netherlands by MT Magazine
+- Received the Goudhaantje Award in 2019
+
+**Geography:** Benelux, Middle-East & Nordics (Belgium, Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Egypt, Monaco, Vatican City)
+
+**GitHub Portfolio:** [https://github.com/joe-shenouda/](https://github.com/joe-shenouda/)
+
+
+✨ Active security clearance ✨
 
 Please share this list if you find it useful. Let me know if you like it
+
+## Support
+
+If you would like to support this project, you can make a donation through PayPal:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?business=P9L4Y9YQYEW3Y&no_recurring=0&currency_code=EUR)
+
+Don't forget to give this repo a ✨ STAR!
+
+
 
 Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́
 
 |Site name|Description|
 |:--|:--|
-|[$natch competition](http://blog.phdays.com/2012/05/once-again-about-remote-banking.html)|Remote banking system containing common vulnerabilities.|
+|[Altoro Mutual](https://demo.testfire.net/index.jsp)|Altoro is a fake banking website, containing various security vulnerabilities.| 
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
-|[Avatao](https://www.avatao.com/)|More than 350 hands-on challenges (free and paid) to master IT security and it's growing day by day.|
+|[AzureGoat](https://github.com/ine-labs/AzureGoat)|AzureGoat : A Damn Vulnerable Azure Infrastructure.|
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
 |[bWAPP](http://www.itsecgames.com/)|buggy web application, is a free and open source deliberately insecure web application. It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities. bWAPP prepares one to conduct successful penetration testing and ethical hacking projects.|
 |[Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)|Free online cyber security Massive Open Online Courses (MOOCS).|
 |[Commix testbed](https://github.com/commixproject/commix-testbed)|A collection of web pages, vulnerable to command injection flaws.|
 |[CryptOMG](https://github.com/SpiderLabs/CryptOMG)|CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.|
 |[Cyber Security Base](https://cybersecuritybase.github.io/)|Cyber Security Base is a page with free courses by the University of Helsinki in collaboration with F-Secure.|
-|[Cybersecuritychallenge UK](https://pod.cybersecuritychallenge.org.uk/)|Cyber Security Challenge UK runs a series of competitions designed to test your cyber security skills.|
+|[Cybersecuritychallenge UK](https://cybersecuritychallenge.org.uk/)|Cyber Security Challenge UK runs a series of competitions designed to test your cyber security skills.|
 |[CyberTraining 365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
 |[Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)|Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports the majority of (most popular) web application vulnerabilities together with appropriate attacks.|
@@ -90,48 +89,40 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Damn Vulnerable Router Firmware](https://github.com/praetorian-inc/DVRF)|The goal of this project is to simulate a real-world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware.|
 |[Damn Vulnerable Stateful Web App](https://github.com/silentsignal/damn-vulnerable-stateful-web-app)|Short and simple vulnerable PHP web application that naïve scanners found to be perfectly safe.|
 |[Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta)|DVTA is a Vulnerable Thick Client Application developed in C# .NET with many vulnerabilities.|
-|[Damn Vulnerable Web App](http://www.dvwa.co.uk/)|Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a classroom environment.|
+|[Damn Vulnerable Web App](https://github.com/digininja/DVWA/)|Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.|
 |[Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)|Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real-world web service vulnerabilities.|
 |[Damn Vulnerable Web Sockets](https://github.com/interference-security/DVWS)|Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.|
 |[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern-day app with lots of DOM-related bugs.|
 |[Dareyourmind](https://web.archive.org/web/20170618221231/http://www.dareyourmind.net/)|Online game, hacker challenge (mirror archive).|
+|[Defbox](https://defbox.io/)|Experience real-Life Cyber Threats in a safe Environment.|
 |[DIVA Android](https://github.com/payatu/diva-android)|Damn Insecure and vulnerable App for Android.|
-|[EnigmaGroup](https://www.enigmagroup.org/)|Safe security resource, trains in exploits listed in the OWASP Top 10 Project and teach members the many other types of exploits that are found in today's applications.|
-|[ENISA Training Material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)|The European Union Agency for Network and Information Security (ENISA) Cyber Security Training. You will find training materials, handbooks for teachers, toolsets for students and Virtual Images to support hands-on training sessions.|
+|[ENISA Training Material](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material)|The European Union Agency for Network and Information Security (ENISA) Cyber Security Training. You will find training materials, handbooks for teachers, toolsets for students and Virtual Images to support hands-on training sessions.|
 |[exploit.co.il Vulnerable Web App](https://sourceforge.net/projects/exploitcoilvuln/?source=recommended)|exploit.co.il Vulnerable Web app designed as a learning platform to test various SQL injection Techniques.|
 |[Exploit-exercises.com](https://exploit-exercises.com/)|exploit-exercises.com provides a variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues.|
 |[ExploitMe Mobile](http://securitycompass.github.io/AndroidLabs/index.html)|Set of labs and an exploitable framework for you to hack mobile an application on Android.|
-|[Game of Hacks](http://www.gameofhacks.com/)|This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible.|
 |[GameOver](https://sourceforge.net/projects/null-gameover/)|Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work.|
 |[Gh0stlab](http://www.gh0st.net/?p=19)|A security research network where like-minded individuals could work together towards the common goal of knowledge.|
+|[GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD)|GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.|
 |[GoatseLinux](http://neutronstar.org/goatselinux.html)|GSL is a Vmware image you can run for penetration testing purposes.|
 |[Google Gruyere](http://google-gruyere.appspot.com/)|Labs that cover how an application can be attacked using common web security vulnerabilities, like cross-site scripting vulnerabilities (XSS) and cross-site request forgery (XSRF). Also, you can find labs how to find, fix, and avoid these common vulnerabilities and other bugs that have a security impact, such as denial-of-service, information disclosure, or remote code execution.|
-|[Gracefully Vulnerable Virtual Machine](https://www.gracefulsecurity.com/vulnvm/)|Graceful’s VulnVM is VM web app designed to simulate a simple eCommerce style website which is purposely vulnerable to a number of well know security issues commonly seen in web applications.|
+|[Gracefully Vulnerable Virtual Machine](https://www.vulnhub.com/entry/seattle-v03,145/)| Graceful’s VulnVM is VM web app designed to simulate a simple eCommerce style website which is purposely vulnerable to a number of well know security issues commonly seen in web applications.|
 |[Hack The Box](https://www.hackthebox.eu/)|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with other members of similar interests. In order to join you should solve an entry-level challenge.|
 |[Hack This Site](https://www.hackthissite.org/)|More than just another hacker wargames site, Hack This Site is a living, breathing community with many active projects in development, with a vast selection of hacking articles and a huge forum where users can discuss hacking, network security, and just about everything.|
 |[Hack Yourself First](https://hackyourselffirst.troyhunt.com/)|This course is designed to help web developers on all frameworks identify risks in their own websites before attackers do and it uses this site extensively to demonstrate risks.|
-|[Hack.me](https://hack.me/)|Hack.me aims to be the largest collection of "runnable" vulnerable web applications, code samples and CMS's online. The platform is available without any restriction to any party interested in Web Application Security.|
 |[Hackademic](https://github.com/Hackademic/hackademic)|Offers realistic scenarios full of known vulnerabilities (especially, of course, the OWASP Top Ten) for those trying to practice their attack skills.|
 |[Hackazon](https://github.com/rapid7/hackazon)|A modern vulnerable web app.|
 |[Hackertest.net](http://www.hackertest.net/)|HackerTest.net is your own online hacker simulation with 20 levels.|
 |[Hacking-Lab](https://www.hacking-lab.com/Remote_Sec_Lab/)|Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. Furthermore, Hacking-Lab is providing the CTF and mission style challenges for the European Cyber Security Challenge with Austria, Germany, Switzerland, UK, Spain, Romania and provides free OWASP TOP 10 online security labs.|
-|[Hacksplaining](https://www.hacksplaining.com/)|This is a place to learn basics of system, network and web-app/website hacking. These are easy to deal and are both theoretical and practical labs activities, for beginners and intermediate users.|
-|[HackSys Extreme Vulnerable Driver](http://payatu.com/hacksys-extreme-vulnerable-driver/)|HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.|
+|[Hacksplaining](https://www.hacksplaining.com/)|Security Training for Developers.|
+|[HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver/)|HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.|
 |[HackThis!!](https://www.hackthis.co.uk/)|Test your skills with 50+ hacking levels, covering all aspects of security.|
-|[Hackxor](http://hackxor.sourceforge.net/cgi-bin/index.pl)|Hackxor is a web app hacking game where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etc.|
-|[Halls of Valhalla](http://halls-of-valhalla.org/beta/challenges)|Challenges you can solve. Valhalla is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles.|
-|[Hax.Tor](http://hax.tor.hu/welcome/)|Provides numerous interesting “hacking” challenges to the user.|
-|[Hellbound Hackers](https://www.hellboundhackers.org/)|Learn a hands-on approach to computer security. Learn how hackers break in, and how to keep them out.|
+|[Hackxor](https://hackxor.net/)|Hackxor is a web app hacking game where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etc.|
 |[Holynix](https://sourceforge.net/projects/holynix/files/)|Holynix is a Linux VMware image that was deliberately built to have security holes for the purposes of penetration testing.|
-|[HSCTF3](http://hsctf.com/)|HSCTF is an international online hacking competition designed to educate high schoolers in computer science.|
-|[Information Assurance Support Environment (IASE)](http://iase.disa.mil/eta/Pages/index.aspx)|Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online.|
-|[InfoSec Institute](http://resources.infosecinstitute.com/free-cissp-training-study-guide/)|Free CISSP Training course.|
-|[ISC2 Center for Cyber Safety and Education](https://safeandsecureonline.org/)|Site to empower students, teachers, and whole communities to secure their online life through cyber security education and awareness with the Safe and Secure Online educational program; information security scholarships; and industry and consumer research.|
+|[Information Assurance Support Environment (IASE)](https://public.cyber.mil/cyber-training/training-catalog/?_training_types=3-training-student-self-paced)|Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online.|
 |[Java Vulnerable Lab](https://github.com/CSPF-Founder/JavaVulnerableLab)|Vulnerable Java based Web Application.|
 |[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure web app for security training written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.|
 |[LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)|LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach Linux,apache,PHP,MySQL security.|
 |[Magical Code Injection Rainbow](https://github.com/SpiderLabs/MCIR)|The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.|
-|[McAfee HacMe Sites](http://www.mcafee.com/us/downloads/free-tools/index.aspx)|Search the page for HacMe and you'll find a suite of learning tools.|
 |[Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)|Free Ethical Hacking Course.|
 |[Metasploitable 3](https://github.com/rapid7/metasploitable3)|Metasploitable3 is a VM that is built from the ground up with a large number of security vulnerabilities.|
 |[Microcorruption CTF](https://microcorruption.com/login)|Challenge: given a debugger and a device, find an input that unlocks it. Solve the level with that input.|
@@ -141,30 +132,29 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[National Institutes of Health (NIH)](https://irtsectraining.nih.gov/publicUser.aspx)|Short courses on Information Security and Privacy Awareness. They have a section for executives, managers and IT Administrators as well.|
 |[OpenSecurityTraining.info](http://opensecuritytraining.info/Training.html)|OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.|
 |[Overthewire](http://overthewire.org/wargames/)|The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.|
-|[OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)|OWASP Broken Web Applications Project is a collection of vulnerable web applications that is distributed on a Virtual Machine.|
+|[OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/)|OWASP Broken Web Applications Project is a collection of vulnerable web applications that is distributed on a Virtual Machine.|
 |[OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)|OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users.|
-|[OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Project)|iGoat is a learning tool for iOS developers (iPhone, iPad, etc.).|
-|[OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/)|OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.|
+|[OWASP iGoat](https://wiki.owasp.org/index.php/OWASP_iGoat_Tool_Project)|iGoat is a learning tool for iOS developers (iPhone, iPad, etc.).|
+|[OWASP Mutillidae II](https://owasp.org/www-project-mutillidae-ii/)|OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.|
 |[OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd)|The OWASP Security Shepherd project is a web and mobile application security training platform.|
-|[OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator)|OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc...).|
-|[Pentest.Training](https://pentest.training/)|Pentest.Training offers a fully functioning penetration testing lab which is ever increasing in size, complexity and diversity. The lab has a fully functioning Windows domain with various Windows OS's. There is also a selection of Boot2Root Linux machines to practice your CTF and escalation techniques and finally, pre-built web application training machines.|
+|[OWASP SiteGenerator](https://en.freedownloadmanager.org/Windows-PC/OWASP-Site-Generator-FREE.html)|OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc...).|
 |[Pentesterlab](https://pentesterlab.com/exercises/from_sqli_to_shell)|This exercise explains how you can, from a SQL injection, gain access to the administration console, then in the administration console, how you can run commands on the system.|
-|[Pentestit.ru](https://lab.pentestit.ru/)|Pentestit.ru has free labs that emulate real IT infrastructures. It is created for practicing legal pen testing and improving penetration testing skills. OpenVPN is required to connect to the labs.|
+|[Pentest-Ground](https://pentest-ground.com)|Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.|
 |[Peruggia](https://sourceforge.net/projects/peruggia/)|Peruggia is designed as a safe, legal environment to learn about and try common attacks on web applications. Peruggia looks similar to an image gallery but contains several controlled vulnerabilities to practice on.|
 |[PicoCTF](https://picoctf.com/)|picoCTF is a computer security game targeted at middle and high school students. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge.|
 |[Professor Messer](http://www.professormesser.com/)|Good free training video's, not only on Security but on CompTIA A+, Network and Microsoft related as well.|
 |[Puzzlemall](https://code.google.com/archive/p/puzzlemall/)|PuzzleMall - A vulnerable web application for practicing session puzzling.|
 |[Pwnable.kr](http://pwnable.kr/)|'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.|
-|[Pwnos](http://www.pwnos.com/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
+|[Pwnos](https://www.vulnhub.com/entry/pwnos-20-pre-release,34/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
 |[Reversing.kr](http://reversing.kr)|This site tests your ability to Cracking & Reverse Code Engineering.|
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
-|[Risk3Sixty](http://www.risk3sixty.com/free-information-security-training/)|Free Information Security training video, an information security examination and the exam answer key.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
+|[Roppers Academy Training](https://www.hoppersroppers.org/training.html)|Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF.|
 |[RPISEC/MBE](https://github.com/RPISEC/MBE)|Modern Binary Exploitation Course materials.|
 |[RPISEC/Malware](https://github.com/RPISEC/Malware)|Malware Analysis Course materials.|
 |[SANS Cyber Aces](http://www.cyberaces.org/courses/)|SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training.|
 |[Scene One](https://www.vulnhub.com/entry/21ltr-scene-1,3/)|Scene One is a pen testing scenario liveCD made for a bit of fun and learning.|
-|[SEED Labs](http://www.cis.syr.edu/~wedu/seed/all_labs.html)|The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs.|
+|[SEED Labs](https://seedsecuritylabs.org/)|The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs.|
 |[SentinelTestbed](https://github.com/dobin/SentinelTestbed)|Vulnerable website. Used to test sentinel features.|
 |[SG6 SecGame](http://sg6-labs.blogspot.nl/2007/12/secgame-1-sauron.html)|Spanish language, vulnerable GNU/Linux systems.|
 |[SlaveHack](http://www.slavehack.com/)|My personal favorite: Slavehack is a virtual hack simulation game. Great for starters, I've seen kids in elementary school playing this!|
@@ -173,20 +163,18 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[SocketToMe](https://digi.ninja/projects/sockettome.php)|SocketToMe SocketToMe is little application for testing web sockets.|
 |[SQLI labs](https://github.com/Audi-1/sqli-labs)|SQLI labs to test error based, Blind boolean based, Time based.|
 |[Sqlilabs](https://github.com/himadriganguly/sqlilabs)|Lab set-up for learning SQL Injection Techniques.|
-|[SQLzoo](http://sqlzoo.net/hack/)|Try your Hacking skills against this test system. It takes you through the exploit step-by-step.|
-|[Stanford SecuriBench](https://suif.stanford.edu/~livshits/securibench/)|Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java.|
+|[Stanford SecuriBench / Securibench Micro](https://github.com/too4words/securibench-micro/)|Stanford SecuriBench / Securibench Micro is a series of small test cases designed to excercise different parts of a static security analyzer. Each test case in Securibench Micro comes with an answer, which simplifies the comparison process.|
 |[The ButterFly - Security Project](https://sourceforge.net/projects/thebutterflytmp/?source=navbar)|The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.|
 |[ThisIsLegal](http://www.thisislegal.com/)|A hacker wargames site but also with much more.|
-|[Try2Hack](http://www.try2hack.nl/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
+|[Try2Hack](https://www.try2hack.lt/en/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
 |[TryHackMe](https://tryhackme.com)|TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.|
 |[UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html)|UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products.|
-|[Vicnum](http://vicnum.ciphertechs.com/)|Vicnum is an OWASP project consisting of vulnerable web applications based on games commonly used to kill time. These applications demonstrate common web security problems such as cross-site scripting, SQL injections, and session management issues.|
+|[Vulnerable Node](https://github.com/cr0hn/vulnerable-node)|A very vulnerable web site written in NodeJS to explore various vulnerabilities.|
 |[Vulnhub](https://www.vulnhub.com/)|An extensive  collection of vulnerable VMs with user-created solutions.|
-|[Vulnix](https://www.rebootuser.com/?page_id=1041)|A vulnerable Linux host with configuration weaknesses rather than purposely vulnerable software versions.|
 |[Vulnserver](http://www.thegreycorner.com/2010/12/introducing-vulnserver.html)|Windows-based threaded TCP server application that is designed to be exploited.|
 |[W3Challs](https://w3challs.com)|W3Challs is a penetration testing training platform, which offers various computer challenges, in categories related to security|
 |[WackoPicko](https://github.com/adamdoupe/WackoPicko)|WackoPicko is a vulnerable web application used to test web application vulnerability scanners.|
-|[Web Attack and Exploitation Distro](http://www.waed.info/)|WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pen testing tools as well.|
+|[Web Attack and Exploitation Distro](https://www.youtube.com/watch?v=EBaFeuFlqyw)|WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pen testing tools as well.|
 |[Web Security Dojo](https://sourceforge.net/projects/websecuritydojo/)|Web Security Dojo is a preconfigured, stand-alone training environment for Web Application Security.|
 |[WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)|WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. You can install and practice with WebGoat.|
 |[Wechall](http://www.wechall.net/)|Focussed on offering computer-related problems. You will find Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science. The difficulty of these challenges varies as well.|
@@ -196,3 +184,5 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 
 
 Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́
+
+![](https://user-images.githubusercontent.com/24913656/230711569-50e16175-47f1-4073-9fff-ad3008541036.png)
